@@ -1,1 +1,6 @@
 
+{
+  "name": "GitHub Skills - Codespaces",
+    "remoteUser": "codespace",
+      "overrideCommand": false
+}
