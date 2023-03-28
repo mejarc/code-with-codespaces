@@ -2,5 +2,16 @@
 {
   "name": "GitHub Skills - Codespaces",
     "remoteUser": "codespace",
-      "overrideCommand": false
+      "overrideCommand": false,
+        "customizations": {
+          "vscode": {
+            "extensions": [
+              "GitHub.copilot"
+              ]
+          },
+            "codespaces": {
+              "openFiles": [
+                "codespace.md"
+                ]
+            }
 }
